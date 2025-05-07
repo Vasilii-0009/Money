@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  gap: 50px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+
+  &__item {
+    display: flex;
+    gap: 50px;
+  }
+}
+
+.generalInfo {
+  display: flex;
+  gap: 50px;
+}
